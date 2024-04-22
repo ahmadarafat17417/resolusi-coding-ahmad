@@ -1,0 +1,4 @@
+Rencana rencana mengenai koding di tahun ini:
+- Belajar Github lewat Web Programming Unpas di youtube.
+- Membuat Projek Absensi Siswa SMKN65 bareng kak Alan.
+- Pake template Github buat proyek paling engga sekali.
