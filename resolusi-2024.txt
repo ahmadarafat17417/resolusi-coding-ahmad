@@ -1,0 +1,6 @@
+Resolusi Ahmad untuk tahun ini (2024):
+
+- Menguasai Terminologi dan cara kerja Git dan Github
+- Menguasai framework TailwindCSS
+- Melakukan sebuah projek kolaborasi koding minimal 1
+- Membuat 5 Proyek HTML CSS JS
